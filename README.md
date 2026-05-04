@@ -303,10 +303,11 @@ A: Replace the CSV with a Twitter API stream → Kafka queue → batch processin
 
 ## 👤 Author
 
-**[Your Name]**  
-B.Tech Computer Science | [Your College]  
-📧 your.email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com) | 💻 [GitHub](https://github.com)
+**Shruti Srivastava**  
+
+🔗 [LinkedIn]www.linkedin.com/in/shruti-srivastava-36b26232a
+
+ | 💻 [GitHub]https://github.com/Suru2005-shri
 
 ---
 
